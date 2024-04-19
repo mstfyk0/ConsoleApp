@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestofKotonCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf376f7832540470a339d00cc84f1b13b981b5f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestofKotonCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestofKotonCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
