@@ -1,0 +1,15 @@
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\bin\Debug\net8.0\TestofKotonCode.exe
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\bin\Debug\net8.0\TestofKotonCode.deps.json
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\bin\Debug\net8.0\TestofKotonCode.runtimeconfig.json
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\bin\Debug\net8.0\TestofKotonCode.dll
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\bin\Debug\net8.0\TestofKotonCode.pdb
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.AssemblyInfoInputs.cache
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.AssemblyInfo.cs
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.csproj.CoreCompileInputs.cache
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.sourcelink.json
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.dll
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\refint\TestofKotonCode.dll
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.pdb
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\TestofKotonCode.genruntimeconfig.cache
+C:\Users\mstyg\source\repos\RealEstateApplication\TestofKotonCode\TestofKotonCode\obj\Debug\net8.0\ref\TestofKotonCode.dll
